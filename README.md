@@ -26,7 +26,7 @@ This dataset powers the interactive travel matcher at **[PlugWise](https://plugw
   "voltage": "100V",
   "frequency": "50/60Hz",
   "plugs": ["A", "B"],
-  "pinDescription": "Two flat parallel blades (ungrounded Type A) and three-prong grounded (Type B)"
+  "pinDescription": "Two flat parallel blades (ungrounded Type A) and three-prong grounded (Type B)"```
 }
 
 🚀 Live Interactive Explorer
