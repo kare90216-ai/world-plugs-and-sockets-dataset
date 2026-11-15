@@ -19,7 +19,9 @@ This dataset powers the interactive travel matcher at **[PlugWise](https://plugw
 
 🚀 Live Interactive Explorer
 To test real-time electrical compatibility, compare wall outlets side-by-side, or run high-risk device safety checks (Dyson, CPAP, hair stylers), visit:
+
 👉 PlugWise.co
+
 📄 License & Attribution
 This dataset is open-source and licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0).
 You are free to share, copy, and adapt this data for any purpose (even commercially) as long as you provide appropriate attribution:
