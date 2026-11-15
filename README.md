@@ -26,8 +26,8 @@ This dataset powers the interactive travel matcher at **[PlugWise](https://plugw
   "voltage": "100V",
   "frequency": "50/60Hz",
   "plugs": ["A", "B"],
-  "pinDescription": "Two flat parallel blades (ungrounded Type A) and three-prong grounded (Type B)"```
-}
+  "pinDescription": "Two flat parallel blades (ungrounded Type A) and three-prong grounded (Type B)"
+
 
 🚀 Live Interactive Explorer
 To test real-time electrical compatibility, compare wall outlets side-by-side, or run high-risk device safety checks (Dyson, CPAP, hair stylers), visit:
@@ -36,3 +36,4 @@ To test real-time electrical compatibility, compare wall outlets side-by-side, o
 This dataset is open-source and licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0).
 You are free to share, copy, and adapt this data for any purpose (even commercially) as long as you provide appropriate attribution:
 Data provided and maintained by PlugWise.
+}
