@@ -1,0 +1,4396 @@
+[
+  {
+    "name": "Afghanistan",
+    "slug": "afghanistan",
+    "code": "AF",
+    "isoCode": "AF",
+    "flag": "\ud83c\udde6\ud83c\uddeb",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Standard European 2-pin round Type C and German Schuko Type F sockets.",
+    "launchStage": 2
+  },
+  {
+    "name": "Albania",
+    "slug": "albania",
+    "code": "AL",
+    "isoCode": "AL",
+    "flag": "\ud83c\udde6\ud83c\uddf1",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "European standard Type C Europlug and Type F Schuko outlets throughout Tirana and the coast.",
+    "launchStage": 2
+  },
+  {
+    "name": "Algeria",
+    "slug": "algeria",
+    "code": "DZ",
+    "isoCode": "DZ",
+    "flag": "\ud83c\udde9\ud83c\uddff",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "European standard Type C and Type F Schuko sockets are standard across Algeria.",
+    "launchStage": 2
+  },
+  {
+    "name": "Andorra",
+    "slug": "andorra",
+    "code": "AD",
+    "isoCode": "AD",
+    "flag": "\ud83c\udde6\ud83c\udde9",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Standard European Type C and Type F Schuko sockets, identical to neighboring France and Spain.",
+    "launchStage": 2
+  },
+  {
+    "name": "Angola",
+    "slug": "angola",
+    "code": "AO",
+    "isoCode": "AO",
+    "flag": "\ud83c\udde6\ud83c\uddf4",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C"
+    ],
+    "plugTypes": [
+      "C"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug)",
+    "socketNotes": "Type C Europlug is standard. Hotels in Luanda may also accept Type F plugs.",
+    "launchStage": 2
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "slug": "antigua-and-barbuda",
+    "code": "AG",
+    "isoCode": "AG",
+    "flag": "\ud83c\udde6\ud83c\uddec",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin)",
+    "socketNotes": "Uses North American Type A and B sockets, but voltage is 230V at 60Hz. Voltage converters are vital for US appliances!",
+    "launchStage": 2
+  },
+  {
+    "name": "Argentina",
+    "slug": "argentina",
+    "code": "AR",
+    "isoCode": "AR",
+    "flag": "\ud83c\udde6\ud83c\uddf7",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "I"
+    ],
+    "plugTypes": [
+      "C",
+      "I"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type I (two or three flat angled blades with grounding pin)",
+    "socketNotes": "Type I is standard (same prong layout as Australia, but neutral and live pin wires are reversed). Type C in older rooms.",
+    "launchStage": 2
+  },
+  {
+    "name": "Armenia",
+    "slug": "armenia",
+    "code": "AM",
+    "isoCode": "AM",
+    "flag": "\ud83c\udde6\ud83c\uddf2",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "European standard Type C and Type F Schuko outlets across Yerevan and regional hotels.",
+    "launchStage": 2
+  },
+  {
+    "name": "Aruba",
+    "slug": "aruba",
+    "code": "AW",
+    "isoCode": "AW",
+    "flag": "\ud83c\udde6\ud83c\uddfc",
+    "voltage": "120V",
+    "voltageNum": 120,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "A",
+      "B",
+      "F"
+    ],
+    "plugTypes": [
+      "A",
+      "B",
+      "F"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Resorts primarily use North American Type A and B sockets at 120V / 60Hz. Some European properties offer Type F.",
+    "launchStage": 2
+  },
+  {
+    "name": "Australia",
+    "slug": "australia",
+    "code": "AU",
+    "isoCode": "AU",
+    "flag": "\ud83c\udde6\ud83c\uddfa",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "I"
+    ],
+    "plugTypes": [
+      "I"
+    ],
+    "pinDescription": "Type I (two or three flat angled blades with grounding pin)",
+    "socketNotes": "Type I sockets have 2 angled flat pins forming an inverted V plus a vertical earth pin. Outlets feature individual safety switches.",
+    "launchStage": 1
+  },
+  {
+    "name": "Austria",
+    "slug": "austria",
+    "code": "AT",
+    "isoCode": "AT",
+    "flag": "\ud83c\udde6\ud83c\uddf9",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "German Schuko Type F and Type C Europlug are universal in Vienna, Salzburg, and ski resorts.",
+    "launchStage": 1
+  },
+  {
+    "name": "Azerbaijan",
+    "slug": "azerbaijan",
+    "code": "AZ",
+    "isoCode": "AZ",
+    "flag": "\ud83c\udde6\ud83c\uddff",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Standard European Type C and Type F Schuko sockets in Baku and across the country.",
+    "launchStage": 2
+  },
+  {
+    "name": "Bahamas",
+    "slug": "bahamas",
+    "code": "BS",
+    "isoCode": "BS",
+    "flag": "\ud83c\udde7\ud83c\uddf8",
+    "voltage": "120V",
+    "voltageNum": 120,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin)",
+    "socketNotes": "Matches North American 120V / 60Hz standard with Type A and B sockets.",
+    "launchStage": 2
+  },
+  {
+    "name": "Bahrain",
+    "slug": "bahrain",
+    "code": "BH",
+    "isoCode": "BH",
+    "flag": "\ud83c\udde7\ud83c\udded",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "G"
+    ],
+    "plugTypes": [
+      "G"
+    ],
+    "pinDescription": "Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "Standard British 3-pin Type G sockets in Manama and throughout the Kingdom.",
+    "launchStage": 2
+  },
+  {
+    "name": "Bangladesh",
+    "slug": "bangladesh",
+    "code": "BD",
+    "isoCode": "BD",
+    "flag": "\ud83c\udde7\ud83c\udde9",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "D",
+      "G",
+      "K"
+    ],
+    "plugTypes": [
+      "C",
+      "D",
+      "G",
+      "K"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type D (three large round pins in triangular configuration) and Type G (three flat rectangular blades in triangular formation) and Type K (two round pins with U-shaped grounding pin)",
+    "socketNotes": "Type D (Indian 3-pin) and Type G (British 3-pin) are common. Type C 2-pin plugs fit into most non-earthed wall sockets.",
+    "launchStage": 2
+  },
+  {
+    "name": "Barbados",
+    "slug": "barbados",
+    "code": "BB",
+    "isoCode": "BB",
+    "flag": "\ud83c\udde7\ud83c\udde7",
+    "voltage": "115V",
+    "voltageNum": 115,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin)",
+    "socketNotes": "North American Type A and B plugs, running at 115V. Note frequency is 50Hz.",
+    "launchStage": 2
+  },
+  {
+    "name": "Belarus",
+    "slug": "belarus",
+    "code": "BY",
+    "isoCode": "BY",
+    "flag": "\ud83c\udde7\ud83c\uddfe",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Standard European Type C and Type F Schuko sockets.",
+    "launchStage": 2
+  },
+  {
+    "name": "Belgium",
+    "slug": "belgium",
+    "code": "BE",
+    "isoCode": "BE",
+    "flag": "\ud83c\udde7\ud83c\uddea",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type E (two round pins with earth pin receptacle)",
+    "socketNotes": "Type E sockets with protruding male earth pin. Fully compatible with standard European dual E/F CEE 7/7 plugs and Type C.",
+    "launchStage": 2
+  },
+  {
+    "name": "Belize",
+    "slug": "belize",
+    "code": "BZ",
+    "isoCode": "BZ",
+    "flag": "\ud83c\udde7\ud83c\uddff",
+    "voltage": "110V",
+    "voltageNum": 110,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "A",
+      "B",
+      "G"
+    ],
+    "plugTypes": [
+      "A",
+      "B",
+      "G"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin) and Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "North American Type A and B plugs are standard. Some properties also feature British Type G.",
+    "launchStage": 2
+  },
+  {
+    "name": "Benin",
+    "slug": "benin",
+    "code": "BJ",
+    "isoCode": "BJ",
+    "flag": "\ud83c\udde7\ud83c\uddef",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type E (two round pins with earth pin receptacle)",
+    "socketNotes": "French standard Type E sockets and 2-pin Type C Europlugs.",
+    "launchStage": 2
+  },
+  {
+    "name": "Bermuda",
+    "slug": "bermuda",
+    "code": "BM",
+    "isoCode": "BM",
+    "flag": "\ud83c\udde7\ud83c\uddf2",
+    "voltage": "120V",
+    "voltageNum": 120,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin)",
+    "socketNotes": "US standard Type A and B sockets at 120V / 60Hz. Direct compatibility for US electronics.",
+    "launchStage": 2
+  },
+  {
+    "name": "Bhutan",
+    "slug": "bhutan",
+    "code": "BT",
+    "isoCode": "BT",
+    "flag": "\ud83c\udde7\ud83c\uddf9",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "D",
+      "G"
+    ],
+    "plugTypes": [
+      "C",
+      "D",
+      "G"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type D (three large round pins in triangular configuration) and Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "Hotels feature a mix of Indian Type D, British Type G, and Europlug Type C.",
+    "launchStage": 2
+  },
+  {
+    "name": "Bolivia",
+    "slug": "bolivia",
+    "code": "BO",
+    "isoCode": "BO",
+    "flag": "\ud83c\udde7\ud83c\uddf4",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "A",
+      "C"
+    ],
+    "plugTypes": [
+      "A",
+      "C"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type C (two round pins, ungrounded Europlug)",
+    "socketNotes": "Flat 2-prong US Type A and round 2-pin European Type C. Notice voltage is 230V in La Paz!",
+    "launchStage": 2
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "slug": "bosnia-and-herzegovina",
+    "code": "BA",
+    "isoCode": "BA",
+    "flag": "\ud83c\udde7\ud83c\udde6",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "European standard Type C and Type F Schuko sockets in Sarajevo, Mostar, and across Bosnia.",
+    "launchStage": 2
+  },
+  {
+    "name": "Botswana",
+    "slug": "botswana",
+    "code": "BW",
+    "isoCode": "BW",
+    "flag": "\ud83c\udde7\ud83c\uddfc",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "D",
+      "G",
+      "M"
+    ],
+    "plugTypes": [
+      "D",
+      "G",
+      "M"
+    ],
+    "pinDescription": "Type D (three large round pins in triangular configuration) and Type G (three flat rectangular blades in triangular formation) and Type M (three large round pins in triangular configuration)",
+    "socketNotes": "South African Type M (large 3-pin round) and British Type G in safari lodges and hotels.",
+    "launchStage": 2
+  },
+  {
+    "name": "Brazil",
+    "slug": "brazil",
+    "code": "BR",
+    "isoCode": "BR",
+    "flag": "\ud83c\udde7\ud83c\uddf7",
+    "voltage": "127V",
+    "voltageNum": 127,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "C",
+      "N"
+    ],
+    "plugTypes": [
+      "C",
+      "N"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type N (three round pins in flattened triangular configuration)",
+    "socketNotes": "Type N (IEC 60906-1) is the official national standard. Note: Voltage is 127V in Rio and S\u00e3o Paulo, but 220V in Bras\u00edlia and Salvador!",
+    "launchStage": 1
+  },
+  {
+    "name": "Brunei",
+    "slug": "brunei",
+    "code": "BN",
+    "isoCode": "BN",
+    "flag": "\ud83c\udde7\ud83c\uddf3",
+    "voltage": "240V",
+    "voltageNum": 240,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "G"
+    ],
+    "plugTypes": [
+      "G"
+    ],
+    "pinDescription": "Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "Standard British 3-pin Type G sockets in Bandar Seri Begawan.",
+    "launchStage": 2
+  },
+  {
+    "name": "Bulgaria",
+    "slug": "bulgaria",
+    "code": "BG",
+    "isoCode": "BG",
+    "flag": "\ud83c\udde7\ud83c\uddec",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "European standard Type C Europlug and Type F Schuko sockets.",
+    "launchStage": 2
+  },
+  {
+    "name": "Burkina Faso",
+    "slug": "burkina-faso",
+    "code": "BF",
+    "isoCode": "BF",
+    "flag": "\ud83c\udde7\ud83c\uddeb",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type E (two round pins with earth pin receptacle)",
+    "socketNotes": "French standard Type E sockets with male grounding pin and Type C Europlug.",
+    "launchStage": 2
+  },
+  {
+    "name": "Burundi",
+    "slug": "burundi",
+    "code": "BI",
+    "isoCode": "BI",
+    "flag": "\ud83c\udde7\ud83c\uddee",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type E (two round pins with earth pin receptacle)",
+    "socketNotes": "French standard Type E sockets with round pins and male earth pin, plus Type C Europlugs, in Bujumbura and across Burundi.",
+    "launchStage": 2
+  },
+  {
+    "name": "Cambodia",
+    "slug": "cambodia",
+    "code": "KH",
+    "isoCode": "KH",
+    "flag": "\ud83c\uddf0\ud83c\udded",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "A",
+      "C",
+      "G"
+    ],
+    "plugTypes": [
+      "A",
+      "C",
+      "G"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type C (two round pins, ungrounded Europlug) and Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "Universal sockets accepting US Type A and European Type C pins are common in Phnom Penh and Siem Reap.",
+    "launchStage": 2
+  },
+  {
+    "name": "Cameroon",
+    "slug": "cameroon",
+    "code": "CM",
+    "isoCode": "CM",
+    "flag": "\ud83c\udde8\ud83c\uddf2",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type E (two round pins with earth pin receptacle)",
+    "socketNotes": "French standard Type E and 2-pin Type C sockets.",
+    "launchStage": 2
+  },
+  {
+    "name": "Canada",
+    "slug": "canada",
+    "code": "CA",
+    "isoCode": "CA",
+    "flag": "\ud83c\udde8\ud83c\udde6",
+    "voltage": "120V",
+    "voltageNum": 120,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin)",
+    "socketNotes": "Identical standard to the United States. US devices and plugs work seamlessly with no adapter.",
+    "launchStage": 1
+  },
+  {
+    "name": "Cape Verde",
+    "slug": "cape-verde",
+    "code": "CV",
+    "isoCode": "CV",
+    "flag": "\ud83c\udde8\ud83c\uddfb",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Standard European Type C and Type F Schuko outlets across the islands.",
+    "launchStage": 2
+  },
+  {
+    "name": "Cayman Islands",
+    "slug": "cayman-islands",
+    "code": "KY",
+    "isoCode": "KY",
+    "flag": "\ud83c\uddf0\ud83c\uddfe",
+    "voltage": "120V",
+    "voltageNum": 120,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin)",
+    "socketNotes": "North American Type A and B sockets at 120V / 60Hz.",
+    "launchStage": 2
+  },
+  {
+    "name": "Central African Republic",
+    "slug": "central-african-republic",
+    "code": "CF",
+    "isoCode": "CF",
+    "flag": "\ud83c\udde8\ud83c\uddeb",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type E (two round pins with earth pin receptacle)",
+    "socketNotes": "French standard Type E sockets and 2-pin European Type C outlets at 220V / 50Hz.",
+    "launchStage": 2
+  },
+  {
+    "name": "Chad",
+    "slug": "chad",
+    "code": "TD",
+    "isoCode": "TD",
+    "flag": "\ud83c\uddf9\ud83c\udde9",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type D (three large round pins in triangular configuration) and Type E (two round pins with earth pin receptacle) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Type E French sockets and European Type C and F are standard across Chad, with some legacy Type D.",
+    "launchStage": 2
+  },
+  {
+    "name": "Chile",
+    "slug": "chile",
+    "code": "CL",
+    "isoCode": "CL",
+    "flag": "\ud83c\udde8\ud83c\uddf1",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "L"
+    ],
+    "plugTypes": [
+      "C",
+      "L"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type L (three round pins in an in-line configuration)",
+    "socketNotes": "Italian style Type L (3 round pins inline) and Type C Europlug are standard nationwide in Santiago and beyond.",
+    "launchStage": 2
+  },
+  {
+    "name": "China",
+    "slug": "china",
+    "code": "CN",
+    "isoCode": "CN",
+    "flag": "\ud83c\udde8\ud83c\uddf3",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "A",
+      "C",
+      "I"
+    ],
+    "plugTypes": [
+      "A",
+      "C",
+      "I"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type C (two round pins, ungrounded Europlug) and Type I (two or three flat angled blades with grounding pin)",
+    "socketNotes": "Dual combination sockets are standard: top section takes 2-pin Type A/C, bottom section takes 3-pin Type I.",
+    "launchStage": 2
+  },
+  {
+    "name": "Colombia",
+    "slug": "colombia",
+    "code": "CO",
+    "isoCode": "CO",
+    "flag": "\ud83c\udde8\ud83c\uddf4",
+    "voltage": "120V",
+    "voltageNum": 120,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin)",
+    "socketNotes": "Uses US standard Type A and Type B plugs. Most US small electronics fit and run at 120V without conversion.",
+    "launchStage": 2
+  },
+  {
+    "name": "Comoros",
+    "slug": "comoros",
+    "code": "KM",
+    "isoCode": "KM",
+    "flag": "\ud83c\uddf0\ud83c\uddf2",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type E (two round pins with earth pin receptacle)",
+    "socketNotes": "French Type E and European 2-pin Type C sockets at 220V in Moroni.",
+    "launchStage": 2
+  },
+  {
+    "name": "Costa Rica",
+    "slug": "costa-rica",
+    "code": "CR",
+    "isoCode": "CR",
+    "flag": "\ud83c\udde8\ud83c\uddf7",
+    "voltage": "120V",
+    "voltageNum": 120,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin)",
+    "socketNotes": "Same standard as North America: Type A and B sockets at 120V / 60Hz.",
+    "launchStage": 1
+  },
+  {
+    "name": "Croatia",
+    "slug": "croatia",
+    "code": "HR",
+    "isoCode": "HR",
+    "flag": "\ud83c\udded\ud83c\uddf7",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Standard European Type C and Type F Schuko sockets in all coastal and inland accommodations.",
+    "launchStage": 1
+  },
+  {
+    "name": "Cuba",
+    "slug": "cuba",
+    "code": "CU",
+    "isoCode": "CU",
+    "flag": "\ud83c\udde8\ud83c\uddfa",
+    "voltage": "110V",
+    "voltageNum": 110,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "A",
+      "B",
+      "C",
+      "L"
+    ],
+    "plugTypes": [
+      "A",
+      "B",
+      "C",
+      "L"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin) and Type C (two round pins, ungrounded Europlug) and Type L (three round pins in an in-line configuration)",
+    "socketNotes": "Historic and residential areas use 110V Type A/B; modern tourist resorts often provide 220V European round pins.",
+    "launchStage": 2
+  },
+  {
+    "name": "Cyprus",
+    "slug": "cyprus",
+    "code": "CY",
+    "isoCode": "CY",
+    "flag": "\ud83c\udde8\ud83c\uddfe",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "G"
+    ],
+    "plugTypes": [
+      "G"
+    ],
+    "pinDescription": "Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "British standard Type G 3-pin plugs are used across the island.",
+    "launchStage": 2
+  },
+  {
+    "name": "Czech Republic",
+    "slug": "czech-republic",
+    "code": "CZ",
+    "isoCode": "CZ",
+    "flag": "\ud83c\udde8\ud83c\uddff",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type E (two round pins with earth pin receptacle)",
+    "socketNotes": "Type E sockets with male grounding pin, matching French standard. Dual E/F CEE 7/7 plugs fit perfectly.",
+    "launchStage": 2
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "slug": "dr-congo",
+    "code": "CD",
+    "isoCode": "CD",
+    "flag": "\ud83c\udde8\ud83c\udde9",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "D",
+      "E"
+    ],
+    "plugTypes": [
+      "C",
+      "D",
+      "E"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type D (three large round pins in triangular configuration) and Type E (two round pins with earth pin receptacle)",
+    "socketNotes": "European 2-pin Type C and French Type E are common in Kinshasa hotels.",
+    "launchStage": 2
+  },
+  {
+    "name": "Denmark",
+    "slug": "denmark",
+    "code": "DK",
+    "isoCode": "DK",
+    "flag": "\ud83c\udde9\ud83c\uddf0",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "E",
+      "F",
+      "K"
+    ],
+    "plugTypes": [
+      "C",
+      "E",
+      "F",
+      "K"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type E (two round pins with earth pin receptacle) and Type F (two round pins with dual side grounding clips (Schuko)) and Type K (two round pins with U-shaped grounding pin)",
+    "socketNotes": "Denmark uses Type K with round pins and semi-circular ground pin, plus Type C Europlugs and Type E/F Schuko.",
+    "launchStage": 2
+  },
+  {
+    "name": "Djibouti",
+    "slug": "djibouti",
+    "code": "DJ",
+    "isoCode": "DJ",
+    "flag": "\ud83c\udde9\ud83c\uddef",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type E (two round pins with earth pin receptacle)",
+    "socketNotes": "French Type E with male earth pin and 2-pin Europlug Type C at 220V / 50Hz.",
+    "launchStage": 2
+  },
+  {
+    "name": "Dominica",
+    "slug": "dominica",
+    "code": "DM",
+    "isoCode": "DM",
+    "flag": "\ud83c\udde9\ud83c\uddf2",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "D",
+      "G"
+    ],
+    "plugTypes": [
+      "D",
+      "G"
+    ],
+    "pinDescription": "Type D (three large round pins in triangular configuration) and Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "British standard Type G rectangular 3-pin sockets predominate.",
+    "launchStage": 2
+  },
+  {
+    "name": "Dominican Republic",
+    "slug": "dominican-republic",
+    "code": "DO",
+    "isoCode": "DO",
+    "flag": "\ud83c\udde9\ud83c\uddf4",
+    "voltage": "120V",
+    "voltageNum": 120,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin)",
+    "socketNotes": "US standard Type A and B plugs, 120V / 60Hz. Direct compatibility with US electronics.",
+    "launchStage": 2
+  },
+  {
+    "name": "Ecuador",
+    "slug": "ecuador",
+    "code": "EC",
+    "isoCode": "EC",
+    "flag": "\ud83c\uddea\ud83c\udde8",
+    "voltage": "120V",
+    "voltageNum": 120,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin)",
+    "socketNotes": "US standard Type A and B sockets at 120V / 60Hz in Quito, Guayaquil, and the Gal\u00e1pagos.",
+    "launchStage": 2
+  },
+  {
+    "name": "Egypt",
+    "slug": "egypt",
+    "code": "EG",
+    "isoCode": "EG",
+    "flag": "\ud83c\uddea\ud83c\uddec",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Type C and F sockets are standard across Cairo, Luxor, and Red Sea resorts.",
+    "launchStage": 1
+  },
+  {
+    "name": "El Salvador",
+    "slug": "el-salvador",
+    "code": "SV",
+    "isoCode": "SV",
+    "flag": "\ud83c\uddf8\ud83c\uddfb",
+    "voltage": "115V",
+    "voltageNum": 115,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin)",
+    "socketNotes": "North American Type A and B sockets operating at 115V / 60Hz.",
+    "launchStage": 2
+  },
+  {
+    "name": "Equatorial Guinea",
+    "slug": "equatorial-guinea",
+    "code": "GQ",
+    "isoCode": "GQ",
+    "flag": "\ud83c\uddec\ud83c\uddf6",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type E (two round pins with earth pin receptacle)",
+    "socketNotes": "European 2-pin Type C and French Type E sockets in Malabo and Bata at 220V.",
+    "launchStage": 2
+  },
+  {
+    "name": "Eritrea",
+    "slug": "eritrea",
+    "code": "ER",
+    "isoCode": "ER",
+    "flag": "\ud83c\uddea\ud83c\uddf7",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "L"
+    ],
+    "plugTypes": [
+      "C",
+      "L"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type L (three round pins in an in-line configuration)",
+    "socketNotes": "Italian legacy 3-pin inline Type L sockets and European Type C Europlug at 230V in Asmara.",
+    "launchStage": 2
+  },
+  {
+    "name": "Estonia",
+    "slug": "estonia",
+    "code": "EE",
+    "isoCode": "EE",
+    "flag": "\ud83c\uddea\ud83c\uddea",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Standard European Type F Schuko and Type C Europlug.",
+    "launchStage": 2
+  },
+  {
+    "name": "Eswatini",
+    "slug": "eswatini",
+    "code": "SZ",
+    "isoCode": "SZ",
+    "flag": "\ud83c\uddf8\ud83c\uddff",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "M"
+    ],
+    "plugTypes": [
+      "M"
+    ],
+    "pinDescription": "Type M (three large round pins in triangular configuration)",
+    "socketNotes": "South African 3-pin large round Type M sockets operating at 230V / 50Hz.",
+    "launchStage": 2
+  },
+  {
+    "name": "Ethiopia",
+    "slug": "ethiopia",
+    "code": "ET",
+    "isoCode": "ET",
+    "flag": "\ud83c\uddea\ud83c\uddf9",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F",
+      "G"
+    ],
+    "plugTypes": [
+      "C",
+      "F",
+      "G"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko)) and Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "European 2-pin Type C and German Schuko Type F are widespread in Addis Ababa.",
+    "launchStage": 2
+  },
+  {
+    "name": "Fiji",
+    "slug": "fiji",
+    "code": "FJ",
+    "isoCode": "FJ",
+    "flag": "\ud83c\uddeb\ud83c\uddef",
+    "voltage": "240V",
+    "voltageNum": 240,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "I"
+    ],
+    "plugTypes": [
+      "I"
+    ],
+    "pinDescription": "Type I (two or three flat angled blades with grounding pin)",
+    "socketNotes": "Uses Australian / New Zealand Type I standard sockets.",
+    "launchStage": 2
+  },
+  {
+    "name": "Finland",
+    "slug": "finland",
+    "code": "FI",
+    "isoCode": "FI",
+    "flag": "\ud83c\uddeb\ud83c\uddee",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Nordic standard Type F Schuko and Type C Europlug.",
+    "launchStage": 2
+  },
+  {
+    "name": "France",
+    "slug": "france",
+    "code": "FR",
+    "isoCode": "FR",
+    "flag": "\ud83c\uddeb\ud83c\uddf7",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type E (two round pins with earth pin receptacle)",
+    "socketNotes": "Type E wall sockets feature an outward protruding earth pin. Universal European CEE 7/7 plugs fit both Type E and Type F.",
+    "launchStage": 1
+  },
+  {
+    "name": "French Polynesia (Tahiti)",
+    "slug": "french-polynesia",
+    "code": "PF",
+    "isoCode": "PF",
+    "flag": "\ud83c\uddf5\ud83c\uddeb",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type E (two round pins with earth pin receptacle)",
+    "socketNotes": "French standard Type E sockets and Europlug Type C. Notice frequency is 60Hz.",
+    "launchStage": 2
+  },
+  {
+    "name": "Gabon",
+    "slug": "gabon",
+    "code": "GA",
+    "isoCode": "GA",
+    "flag": "\ud83c\uddec\ud83c\udde6",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C"
+    ],
+    "plugTypes": [
+      "C"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug)",
+    "socketNotes": "European standard 2-pin round Type C outlets in Libreville at 220V / 50Hz.",
+    "launchStage": 2
+  },
+  {
+    "name": "Gambia",
+    "slug": "gambia",
+    "code": "GM",
+    "isoCode": "GM",
+    "flag": "\ud83c\uddec\ud83c\uddf2",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "G"
+    ],
+    "plugTypes": [
+      "G"
+    ],
+    "pinDescription": "Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "British standard 3-rectangular-pin Type G sockets operating at 230V / 50Hz.",
+    "launchStage": 2
+  },
+  {
+    "name": "Georgia",
+    "slug": "georgia",
+    "code": "GE",
+    "isoCode": "GE",
+    "flag": "\ud83c\uddec\ud83c\uddea",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Standard European Type C and Type F Schuko outlets across Tbilisi and Batumi.",
+    "launchStage": 2
+  },
+  {
+    "name": "Germany",
+    "slug": "germany",
+    "code": "DE",
+    "isoCode": "DE",
+    "flag": "\ud83c\udde9\ud83c\uddea",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Standard German Schuko (Type F) with top/bottom grounding clips. Type C 2-pin Europlugs fit directly without an adapter.",
+    "launchStage": 1
+  },
+  {
+    "name": "Ghana",
+    "slug": "ghana",
+    "code": "GH",
+    "isoCode": "GH",
+    "flag": "\ud83c\uddec\ud83c\udded",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "D",
+      "G"
+    ],
+    "plugTypes": [
+      "D",
+      "G"
+    ],
+    "pinDescription": "Type D (three large round pins in triangular configuration) and Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "British Type G is the predominant standard throughout Accra and hotel properties.",
+    "launchStage": 2
+  },
+  {
+    "name": "Greece",
+    "slug": "greece",
+    "code": "GR",
+    "isoCode": "GR",
+    "flag": "\ud83c\uddec\ud83c\uddf7",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Hotels and island villas use Type C and Type F Schuko sockets. Standard Europlugs fit everywhere.",
+    "launchStage": 1
+  },
+  {
+    "name": "Grenada",
+    "slug": "grenada",
+    "code": "GD",
+    "isoCode": "GD",
+    "flag": "\ud83c\uddec\ud83c\udde9",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "G"
+    ],
+    "plugTypes": [
+      "G"
+    ],
+    "pinDescription": "Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "British standard Type G 3-pin rectangular plugs across St. George.",
+    "launchStage": 2
+  },
+  {
+    "name": "Guatemala",
+    "slug": "guatemala",
+    "code": "GT",
+    "isoCode": "GT",
+    "flag": "\ud83c\uddec\ud83c\uddf9",
+    "voltage": "120V",
+    "voltageNum": 120,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin)",
+    "socketNotes": "North American Type A and B sockets operating at 120V / 60Hz.",
+    "launchStage": 2
+  },
+  {
+    "name": "Guinea",
+    "slug": "guinea",
+    "code": "GN",
+    "isoCode": "GN",
+    "flag": "\ud83c\uddec\ud83c\uddf3",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F",
+      "K"
+    ],
+    "plugTypes": [
+      "C",
+      "F",
+      "K"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko)) and Type K (two round pins with U-shaped grounding pin)",
+    "socketNotes": "European Type C Europlug and Type F Schuko sockets in Conakry at 220V.",
+    "launchStage": 2
+  },
+  {
+    "name": "Guinea-Bissau",
+    "slug": "guinea-bissau",
+    "code": "GW",
+    "isoCode": "GW",
+    "flag": "\ud83c\uddec\ud83c\uddfc",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C"
+    ],
+    "plugTypes": [
+      "C"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug)",
+    "socketNotes": "European 2-pin round Type C outlets operating at 220V / 50Hz.",
+    "launchStage": 2
+  },
+  {
+    "name": "Guyana",
+    "slug": "guyana",
+    "code": "GY",
+    "isoCode": "GY",
+    "flag": "\ud83c\uddec\ud83c\uddfe",
+    "voltage": "120V",
+    "voltageNum": 120,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "A",
+      "B",
+      "D",
+      "G"
+    ],
+    "plugTypes": [
+      "A",
+      "B",
+      "D",
+      "G"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin) and Type D (three large round pins in triangular configuration) and Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "US standard Type A and B sockets are common, alongside British Type G in commercial locations.",
+    "launchStage": 2
+  },
+  {
+    "name": "Haiti",
+    "slug": "haiti",
+    "code": "HT",
+    "isoCode": "HT",
+    "flag": "\ud83c\udded\ud83c\uddf9",
+    "voltage": "110V",
+    "voltageNum": 110,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin)",
+    "socketNotes": "North American Type A and B sockets operating at 110V / 60Hz.",
+    "launchStage": 2
+  },
+  {
+    "name": "Honduras",
+    "slug": "honduras",
+    "code": "HN",
+    "isoCode": "HN",
+    "flag": "\ud83c\udded\ud83c\uddf3",
+    "voltage": "110V",
+    "voltageNum": 110,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin)",
+    "socketNotes": "North American Type A and B sockets at 110V / 60Hz.",
+    "launchStage": 2
+  },
+  {
+    "name": "Hong Kong",
+    "slug": "hong-kong",
+    "code": "HK",
+    "isoCode": "HK",
+    "flag": "\ud83c\udded\ud83c\uddf0",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "G"
+    ],
+    "plugTypes": [
+      "G"
+    ],
+    "pinDescription": "Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "British standard Type G 3-rectangular-blade outlets are universal across Hong Kong.",
+    "launchStage": 2
+  },
+  {
+    "name": "Hungary",
+    "slug": "hungary",
+    "code": "HU",
+    "isoCode": "HU",
+    "flag": "\ud83c\udded\ud83c\uddfa",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Type F Schuko and Type C Europlug in Budapest and across Hungary.",
+    "launchStage": 2
+  },
+  {
+    "name": "Iceland",
+    "slug": "iceland",
+    "code": "IS",
+    "isoCode": "IS",
+    "flag": "\ud83c\uddee\ud83c\uddf8",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "European standard Type C and Type F Schuko sockets throughout Reykjavik and the Ring Road hotels.",
+    "launchStage": 1
+  },
+  {
+    "name": "India",
+    "slug": "india",
+    "code": "IN",
+    "isoCode": "IN",
+    "flag": "\ud83c\uddee\ud83c\uddf3",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "D",
+      "M"
+    ],
+    "plugTypes": [
+      "C",
+      "D",
+      "M"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type D (three large round pins in triangular configuration) and Type M (three large round pins in triangular configuration)",
+    "socketNotes": "Type D (3 round pins in triangle) is most common. Type M is used for heavier appliances (AC/heaters). Type C fits small sockets.",
+    "launchStage": 1
+  },
+  {
+    "name": "Indonesia (Bali)",
+    "slug": "indonesia",
+    "code": "ID",
+    "isoCode": "ID",
+    "flag": "\ud83c\uddee\ud83c\udde9",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Bali and throughout Indonesia standardise on European round 2-pin Type C and Type F Schuko sockets.",
+    "launchStage": 1
+  },
+  {
+    "name": "Iran",
+    "slug": "iran",
+    "code": "IR",
+    "isoCode": "IR",
+    "flag": "\ud83c\uddee\ud83c\uddf7",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Standard European Type C and Type F Schuko sockets.",
+    "launchStage": 2
+  },
+  {
+    "name": "Iraq",
+    "slug": "iraq",
+    "code": "IQ",
+    "isoCode": "IQ",
+    "flag": "\ud83c\uddee\ud83c\uddf6",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "D",
+      "G"
+    ],
+    "plugTypes": [
+      "C",
+      "D",
+      "G"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type D (three large round pins in triangular configuration) and Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "Hotels feature a mix of British Type G, Indian Type D, and European Type C.",
+    "launchStage": 2
+  },
+  {
+    "name": "Ireland",
+    "slug": "ireland",
+    "code": "IE",
+    "isoCode": "IE",
+    "flag": "\ud83c\uddee\ud83c\uddea",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "G"
+    ],
+    "plugTypes": [
+      "G"
+    ],
+    "pinDescription": "Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "Exact same 3-pin rectangular BS 1363 standard as the UK. UK appliances plug in directly with zero adapter.",
+    "launchStage": 1
+  },
+  {
+    "name": "Israel",
+    "slug": "israel",
+    "code": "IL",
+    "isoCode": "IL",
+    "flag": "\ud83c\uddee\ud83c\uddf1",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "H"
+    ],
+    "plugTypes": [
+      "C",
+      "H"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type H (three flat or round pins in Y-configuration)",
+    "socketNotes": "Proprietary Type H 3-pin socket; modern versions feature rounded holes that also accept standard 2-pin Type C Europlugs.",
+    "launchStage": 2
+  },
+  {
+    "name": "Italy",
+    "slug": "italy",
+    "code": "IT",
+    "isoCode": "IT",
+    "flag": "\ud83c\uddee\ud83c\uddf9",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F",
+      "L"
+    ],
+    "plugTypes": [
+      "C",
+      "F",
+      "L"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko)) and Type L (three round pins in an in-line configuration)",
+    "socketNotes": "Italy primarily uses 3-pin inline Type L sockets (10A and 16A) and Type F Schuko in kitchens. Standard Europlug Type C fits all 10A Type L outlets directly.",
+    "launchStage": 1
+  },
+  {
+    "name": "Ivory Coast",
+    "slug": "ivory-coast",
+    "code": "CI",
+    "isoCode": "CI",
+    "flag": "\ud83c\udde8\ud83c\uddee",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type E (two round pins with earth pin receptacle)",
+    "socketNotes": "French standard Type E sockets and 2-pin Type C Europlugs.",
+    "launchStage": 2
+  },
+  {
+    "name": "Jamaica",
+    "slug": "jamaica",
+    "code": "JM",
+    "isoCode": "JM",
+    "flag": "\ud83c\uddef\ud83c\uddf2",
+    "voltage": "110V",
+    "voltageNum": 110,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin)",
+    "socketNotes": "US style Type A and B plugs, running at 110V. Notice frequency is 50Hz (may affect synchronous motor clocks).",
+    "launchStage": 2
+  },
+  {
+    "name": "Japan",
+    "slug": "japan",
+    "code": "JP",
+    "isoCode": "JP",
+    "flag": "\ud83c\uddef\ud83c\uddf5",
+    "voltage": "100V",
+    "voltageNum": 100,
+    "frequency": "50/60Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin)",
+    "socketNotes": "Japan uses 100V (lowest in the world). Mostly 2-prong ungrounded Type A sockets; 3-prong Type B with grounding pin are rare in hotels.",
+    "launchStage": 1
+  },
+  {
+    "name": "Jordan",
+    "slug": "jordan",
+    "code": "JO",
+    "isoCode": "JO",
+    "flag": "\ud83c\uddef\ud83c\uddf4",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "B",
+      "C",
+      "D",
+      "F",
+      "G",
+      "J"
+    ],
+    "plugTypes": [
+      "B",
+      "C",
+      "D",
+      "F",
+      "G",
+      "J"
+    ],
+    "pinDescription": "Type B (two flat parallel prongs with round grounding pin) and Type C (two round pins, ungrounded Europlug) and Type D (three large round pins in triangular configuration) and Type F (two round pins with dual side grounding clips (Schuko)) and Type G (three flat rectangular blades in triangular formation) and Type J (three round pins with offset center grounding pin)",
+    "socketNotes": "Jordanian hotels feature an eclectic mix of European Type C/F, British Type G, and Swiss Type J.",
+    "launchStage": 2
+  },
+  {
+    "name": "Kazakhstan",
+    "slug": "kazakhstan",
+    "code": "KZ",
+    "isoCode": "KZ",
+    "flag": "\ud83c\uddf0\ud83c\uddff",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Standard European Type C and Type F Schuko outlets across Almaty and Astana.",
+    "launchStage": 2
+  },
+  {
+    "name": "Kenya",
+    "slug": "kenya",
+    "code": "KE",
+    "isoCode": "KE",
+    "flag": "\ud83c\uddf0\ud83c\uddea",
+    "voltage": "240V",
+    "voltageNum": 240,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "G"
+    ],
+    "plugTypes": [
+      "G"
+    ],
+    "pinDescription": "Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "British standard Type G 3-pin sockets in Nairobi and safari lodges.",
+    "launchStage": 2
+  },
+  {
+    "name": "Kuwait",
+    "slug": "kuwait",
+    "code": "KW",
+    "isoCode": "KW",
+    "flag": "\ud83c\uddf0\ud83c\uddfc",
+    "voltage": "240V",
+    "voltageNum": 240,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "G"
+    ],
+    "plugTypes": [
+      "C",
+      "G"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "Standard British Type G 3-pin plugs predominate.",
+    "launchStage": 2
+  },
+  {
+    "name": "Kyrgyzstan",
+    "slug": "kyrgyzstan",
+    "code": "KG",
+    "isoCode": "KG",
+    "flag": "\ud83c\uddf0\ud83c\uddec",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "European standard Type C and Type F Schuko sockets in Bishkek.",
+    "launchStage": 2
+  },
+  {
+    "name": "Laos",
+    "slug": "laos",
+    "code": "LA",
+    "isoCode": "LA",
+    "flag": "\ud83c\uddf1\ud83c\udde6",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "A",
+      "B",
+      "C",
+      "E",
+      "F"
+    ],
+    "plugTypes": [
+      "A",
+      "B",
+      "C",
+      "E",
+      "F"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin) and Type C (two round pins, ungrounded Europlug) and Type E (two round pins with earth pin receptacle) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Hybrid combination sockets accepting US flat prongs (Type A) and European round pins (Type C/F) are common.",
+    "launchStage": 2
+  },
+  {
+    "name": "Latvia",
+    "slug": "latvia",
+    "code": "LV",
+    "isoCode": "LV",
+    "flag": "\ud83c\uddf1\ud83c\uddfb",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Standard European Type F Schuko and Type C Europlug.",
+    "launchStage": 2
+  },
+  {
+    "name": "Lebanon",
+    "slug": "lebanon",
+    "code": "LB",
+    "isoCode": "LB",
+    "flag": "\ud83c\uddf1\ud83c\udde7",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "G"
+    ],
+    "plugTypes": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "G"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin) and Type C (two round pins, ungrounded Europlug) and Type D (three large round pins in triangular configuration) and Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "Hotels in Beirut frequently feature multi-standard sockets accepting European Type C and British Type G.",
+    "launchStage": 2
+  },
+  {
+    "name": "Lesotho",
+    "slug": "lesotho",
+    "code": "LS",
+    "isoCode": "LS",
+    "flag": "\ud83c\uddf1\ud83c\uddf8",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "M"
+    ],
+    "plugTypes": [
+      "M"
+    ],
+    "pinDescription": "Type M (three large round pins in triangular configuration)",
+    "socketNotes": "Large 3-pin round South African Type M sockets.",
+    "launchStage": 2
+  },
+  {
+    "name": "Liberia",
+    "slug": "liberia",
+    "code": "LR",
+    "isoCode": "LR",
+    "flag": "\ud83c\uddf1\ud83c\uddf7",
+    "voltage": "120V",
+    "voltageNum": 120,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "A",
+      "B",
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "A",
+      "B",
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin) and Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "North American Type A and B plugs at 120V / 60Hz are widespread, with some European Type C/F in Monrovia.",
+    "launchStage": 2
+  },
+  {
+    "name": "Libya",
+    "slug": "libya",
+    "code": "LY",
+    "isoCode": "LY",
+    "flag": "\ud83c\uddf1\ud83c\uddfe",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "D",
+      "F",
+      "L"
+    ],
+    "plugTypes": [
+      "C",
+      "D",
+      "F",
+      "L"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type D (three large round pins in triangular configuration) and Type F (two round pins with dual side grounding clips (Schuko)) and Type L (three round pins in an in-line configuration)",
+    "socketNotes": "Libya uses European 2-pin Type C and F Schuko, Italian 3-pin inline Type L, and Type D sockets at 230V / 50Hz.",
+    "launchStage": 2
+  },
+  {
+    "name": "Liechtenstein",
+    "slug": "liechtenstein",
+    "code": "LI",
+    "isoCode": "LI",
+    "flag": "\ud83c\uddf1\ud83c\uddee",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "J"
+    ],
+    "plugTypes": [
+      "C",
+      "J"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type J (three round pins with offset center grounding pin)",
+    "socketNotes": "Matches Switzerland with Type J hexagonal sockets and Type C Europlug compatibility.",
+    "launchStage": 2
+  },
+  {
+    "name": "Lithuania",
+    "slug": "lithuania",
+    "code": "LT",
+    "isoCode": "LT",
+    "flag": "\ud83c\uddf1\ud83c\uddf9",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Standard European Type F Schuko and Type C Europlug.",
+    "launchStage": 2
+  },
+  {
+    "name": "Luxembourg",
+    "slug": "luxembourg",
+    "code": "LU",
+    "isoCode": "LU",
+    "flag": "\ud83c\uddf1\ud83c\uddfa",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Standard European Type F Schuko and Type C Europlug.",
+    "launchStage": 2
+  },
+  {
+    "name": "Macao",
+    "slug": "macao",
+    "code": "MO",
+    "isoCode": "MO",
+    "flag": "\ud83c\uddf2\ud83c\uddf4",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "D",
+      "F",
+      "G",
+      "M"
+    ],
+    "plugTypes": [
+      "D",
+      "F",
+      "G",
+      "M"
+    ],
+    "pinDescription": "Type D (three large round pins in triangular configuration) and Type F (two round pins with dual side grounding clips (Schuko)) and Type G (three flat rectangular blades in triangular formation) and Type M (three large round pins in triangular configuration)",
+    "socketNotes": "British Type G and European Type F are standard in modern casino resorts.",
+    "launchStage": 2
+  },
+  {
+    "name": "Madagascar",
+    "slug": "madagascar",
+    "code": "MG",
+    "isoCode": "MG",
+    "flag": "\ud83c\uddf2\ud83c\uddec",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "D",
+      "E",
+      "J",
+      "K"
+    ],
+    "plugTypes": [
+      "C",
+      "D",
+      "E",
+      "J",
+      "K"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type D (three large round pins in triangular configuration) and Type E (two round pins with earth pin receptacle) and Type J (three round pins with offset center grounding pin) and Type K (two round pins with U-shaped grounding pin)",
+    "socketNotes": "French standard Type E and European 2-pin Type C are most prevalent.",
+    "launchStage": 2
+  },
+  {
+    "name": "Malawi",
+    "slug": "malawi",
+    "code": "MW",
+    "isoCode": "MW",
+    "flag": "\ud83c\uddf2\ud83c\uddfc",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "G"
+    ],
+    "plugTypes": [
+      "G"
+    ],
+    "pinDescription": "Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "British standard Type G 3-pin rectangular plugs.",
+    "launchStage": 2
+  },
+  {
+    "name": "Malaysia",
+    "slug": "malaysia",
+    "code": "MY",
+    "isoCode": "MY",
+    "flag": "\ud83c\uddf2\ud83c\uddfe",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "G"
+    ],
+    "plugTypes": [
+      "G"
+    ],
+    "pinDescription": "Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "British standard Type G rectangular 3-pin plugs are used nationwide.",
+    "launchStage": 2
+  },
+  {
+    "name": "Maldives",
+    "slug": "maldives",
+    "code": "MV",
+    "isoCode": "MV",
+    "flag": "\ud83c\uddf2\ud83c\uddfb",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "D",
+      "G",
+      "J",
+      "K",
+      "L"
+    ],
+    "plugTypes": [
+      "D",
+      "G",
+      "J",
+      "K",
+      "L"
+    ],
+    "pinDescription": "Type D (three large round pins in triangular configuration) and Type G (three flat rectangular blades in triangular formation) and Type J (three round pins with offset center grounding pin) and Type K (two round pins with U-shaped grounding pin) and Type L (three round pins in an in-line configuration)",
+    "socketNotes": "Resorts almost always offer universal multi-pin sockets or British Type G.",
+    "launchStage": 2
+  },
+  {
+    "name": "Mali",
+    "slug": "mali",
+    "code": "ML",
+    "isoCode": "ML",
+    "flag": "\ud83c\uddf2\ud83c\uddf1",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type E (two round pins with earth pin receptacle)",
+    "socketNotes": "French standard Type E sockets and Type C Europlugs.",
+    "launchStage": 2
+  },
+  {
+    "name": "Malta",
+    "slug": "malta",
+    "code": "MT",
+    "isoCode": "MT",
+    "flag": "\ud83c\uddf2\ud83c\uddf9",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "G"
+    ],
+    "plugTypes": [
+      "G"
+    ],
+    "pinDescription": "Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "British standard Type G 3-pin rectangular plugs everywhere.",
+    "launchStage": 2
+  },
+  {
+    "name": "Mauritania",
+    "slug": "mauritania",
+    "code": "MR",
+    "isoCode": "MR",
+    "flag": "\ud83c\uddf2\ud83c\uddf7",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C"
+    ],
+    "plugTypes": [
+      "C"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug)",
+    "socketNotes": "European standard 2-pin round Type C outlets across Nouakchott at 220V / 50Hz.",
+    "launchStage": 2
+  },
+  {
+    "name": "Mauritius",
+    "slug": "mauritius",
+    "code": "MU",
+    "isoCode": "MU",
+    "flag": "\ud83c\uddf2\ud83c\uddfa",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "G"
+    ],
+    "plugTypes": [
+      "C",
+      "G"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "Resorts typically provide Type G and Type C sockets.",
+    "launchStage": 2
+  },
+  {
+    "name": "Mexico",
+    "slug": "mexico",
+    "code": "MX",
+    "isoCode": "MX",
+    "flag": "\ud83c\uddf2\ud83c\uddfd",
+    "voltage": "127V",
+    "voltageNum": 127,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin)",
+    "socketNotes": "Same plug shape as the US and Canada. Some budget accommodations may only have 2-prong ungrounded Type A sockets.",
+    "launchStage": 1
+  },
+  {
+    "name": "Moldova",
+    "slug": "moldova",
+    "code": "MD",
+    "isoCode": "MD",
+    "flag": "\ud83c\uddf2\ud83c\udde9",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Standard European Type C and Type F Schuko sockets.",
+    "launchStage": 2
+  },
+  {
+    "name": "Monaco",
+    "slug": "monaco",
+    "code": "MC",
+    "isoCode": "MC",
+    "flag": "\ud83c\uddf2\ud83c\udde8",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type D (three large round pins in triangular configuration) and Type E (two round pins with earth pin receptacle) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Standard European Type C, French Type E, and Type F Schuko.",
+    "launchStage": 2
+  },
+  {
+    "name": "Mongolia",
+    "slug": "mongolia",
+    "code": "MN",
+    "isoCode": "MN",
+    "flag": "\ud83c\uddf2\ud83c\uddf3",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type E (two round pins with earth pin receptacle)",
+    "socketNotes": "European Type C and French Type E sockets in Ulaanbaatar hotels.",
+    "launchStage": 2
+  },
+  {
+    "name": "Montenegro",
+    "slug": "montenegro",
+    "code": "ME",
+    "isoCode": "ME",
+    "flag": "\ud83c\uddf2\ud83c\uddea",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "European standard Type C and Type F Schuko sockets in Kotor, Budva, and Podgorica.",
+    "launchStage": 2
+  },
+  {
+    "name": "Morocco",
+    "slug": "morocco",
+    "code": "MA",
+    "isoCode": "MA",
+    "flag": "\ud83c\uddf2\ud83c\udde6",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type E (two round pins with earth pin receptacle)",
+    "socketNotes": "French standard Type E sockets and Type C Europlugs throughout Marrakech, Casablanca, and riads.",
+    "launchStage": 1
+  },
+  {
+    "name": "Mozambique",
+    "slug": "mozambique",
+    "code": "MZ",
+    "isoCode": "MZ",
+    "flag": "\ud83c\uddf2\ud83c\uddff",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F",
+      "M"
+    ],
+    "plugTypes": [
+      "C",
+      "F",
+      "M"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko)) and Type M (three large round pins in triangular configuration)",
+    "socketNotes": "Mix of European Type C/F and South African Type M.",
+    "launchStage": 2
+  },
+  {
+    "name": "Myanmar (Burma)",
+    "slug": "myanmar",
+    "code": "MM",
+    "isoCode": "MM",
+    "flag": "\ud83c\uddf2\ud83c\uddf2",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "D",
+      "F",
+      "G"
+    ],
+    "plugTypes": [
+      "C",
+      "D",
+      "F",
+      "G"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type D (three large round pins in triangular configuration) and Type F (two round pins with dual side grounding clips (Schuko)) and Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "Hotels feature multi-pin combination sockets taking British Type G and Europlug Type C.",
+    "launchStage": 2
+  },
+  {
+    "name": "Namibia",
+    "slug": "namibia",
+    "code": "NA",
+    "isoCode": "NA",
+    "flag": "\ud83c\uddf3\ud83c\udde6",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "D",
+      "M"
+    ],
+    "plugTypes": [
+      "D",
+      "M"
+    ],
+    "pinDescription": "Type D (three large round pins in triangular configuration) and Type M (three large round pins in triangular configuration)",
+    "socketNotes": "South African large round 3-pin Type M is standard across Windhoek and lodges.",
+    "launchStage": 2
+  },
+  {
+    "name": "Nepal",
+    "slug": "nepal",
+    "code": "NP",
+    "isoCode": "NP",
+    "flag": "\ud83c\uddf3\ud83c\uddf5",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "D",
+      "M"
+    ],
+    "plugTypes": [
+      "C",
+      "D",
+      "M"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type D (three large round pins in triangular configuration) and Type M (three large round pins in triangular configuration)",
+    "socketNotes": "Indian standard Type D and C. Universal travel adapters with thin round pins work well.",
+    "launchStage": 2
+  },
+  {
+    "name": "Netherlands",
+    "slug": "netherlands",
+    "code": "NL",
+    "isoCode": "NL",
+    "flag": "\ud83c\uddf3\ud83c\uddf1",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "German Schuko Type F and Type C Europlug are standard across all residential and hotel sockets.",
+    "launchStage": 1
+  },
+  {
+    "name": "New Zealand",
+    "slug": "new-zealand",
+    "code": "NZ",
+    "isoCode": "NZ",
+    "flag": "\ud83c\uddf3\ud83c\uddff",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "I"
+    ],
+    "plugTypes": [
+      "I"
+    ],
+    "pinDescription": "Type I (two or three flat angled blades with grounding pin)",
+    "socketNotes": "Identical to Australia (Type I inverted V blades with ground pin). Outlets always have integrated on/off switches.",
+    "launchStage": 2
+  },
+  {
+    "name": "Nicaragua",
+    "slug": "nicaragua",
+    "code": "NI",
+    "isoCode": "NI",
+    "flag": "\ud83c\uddf3\ud83c\uddee",
+    "voltage": "120V",
+    "voltageNum": 120,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin)",
+    "socketNotes": "North American Type A and B sockets at 120V / 60Hz.",
+    "launchStage": 2
+  },
+  {
+    "name": "Niger",
+    "slug": "niger",
+    "code": "NE",
+    "isoCode": "NE",
+    "flag": "\ud83c\uddf3\ud83c\uddea",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "plugTypes": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin) and Type C (two round pins, ungrounded Europlug) and Type D (three large round pins in triangular configuration) and Type E (two round pins with earth pin receptacle) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "French Type E and European Type C are common in Niamey, with various legacy British and US outlets present.",
+    "launchStage": 2
+  },
+  {
+    "name": "Nigeria",
+    "slug": "nigeria",
+    "code": "NG",
+    "isoCode": "NG",
+    "flag": "\ud83c\uddf3\ud83c\uddec",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "D",
+      "G"
+    ],
+    "plugTypes": [
+      "D",
+      "G"
+    ],
+    "pinDescription": "Type D (three large round pins in triangular configuration) and Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "British Type G is the standard in major cities and hotels across Lagos and Abuja.",
+    "launchStage": 2
+  },
+  {
+    "name": "North Korea",
+    "slug": "north-korea",
+    "code": "KP",
+    "isoCode": "KP",
+    "flag": "\ud83c\uddf0\ud83c\uddf5",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "A",
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "A",
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "European 2-pin Type C and Schuko Type F are standard in Pyongyang tourist hotels at 220V / 50Hz.",
+    "launchStage": 2
+  },
+  {
+    "name": "North Macedonia",
+    "slug": "north-macedonia",
+    "code": "MK",
+    "isoCode": "MK",
+    "flag": "\ud83c\uddf2\ud83c\uddf0",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Standard European Type C and Type F Schuko sockets in Skopje and Ohrid.",
+    "launchStage": 2
+  },
+  {
+    "name": "Norway",
+    "slug": "norway",
+    "code": "NO",
+    "isoCode": "NO",
+    "flag": "\ud83c\uddf3\ud83c\uddf4",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Type F Schuko and Type C Europlug are universal in Norway.",
+    "launchStage": 2
+  },
+  {
+    "name": "Oman",
+    "slug": "oman",
+    "code": "OM",
+    "isoCode": "OM",
+    "flag": "\ud83c\uddf4\ud83c\uddf2",
+    "voltage": "240V",
+    "voltageNum": 240,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "G"
+    ],
+    "plugTypes": [
+      "G"
+    ],
+    "pinDescription": "Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "British standard Type G 3-pin sockets across Muscat and Salalah.",
+    "launchStage": 2
+  },
+  {
+    "name": "Pakistan",
+    "slug": "pakistan",
+    "code": "PK",
+    "isoCode": "PK",
+    "flag": "\ud83c\uddf5\ud83c\uddf0",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "D",
+      "G",
+      "M"
+    ],
+    "plugTypes": [
+      "C",
+      "D",
+      "G",
+      "M"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type D (three large round pins in triangular configuration) and Type G (three flat rectangular blades in triangular formation) and Type M (three large round pins in triangular configuration)",
+    "socketNotes": "Indian standard Type D and European Type C are common, with British Type G in modern hotels.",
+    "launchStage": 2
+  },
+  {
+    "name": "Panama",
+    "slug": "panama",
+    "code": "PA",
+    "isoCode": "PA",
+    "flag": "\ud83c\uddf5\ud83c\udde6",
+    "voltage": "120V",
+    "voltageNum": 120,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin)",
+    "socketNotes": "Standard US Type A and B plugs work without adapters in Panama City and resorts.",
+    "launchStage": 2
+  },
+  {
+    "name": "Papua New Guinea",
+    "slug": "papua-new-guinea",
+    "code": "PG",
+    "isoCode": "PG",
+    "flag": "\ud83c\uddf5\ud83c\uddec",
+    "voltage": "240V",
+    "voltageNum": 240,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "I"
+    ],
+    "plugTypes": [
+      "I"
+    ],
+    "pinDescription": "Type I (two or three flat angled blades with grounding pin)",
+    "socketNotes": "Australian standard Type I inverted V-pin sockets.",
+    "launchStage": 2
+  },
+  {
+    "name": "Paraguay",
+    "slug": "paraguay",
+    "code": "PY",
+    "isoCode": "PY",
+    "flag": "\ud83c\uddf5\ud83c\uddfe",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "A",
+      "C"
+    ],
+    "plugTypes": [
+      "A",
+      "C"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type C (two round pins, ungrounded Europlug)",
+    "socketNotes": "European round 2-pin Type C and flat 2-pin Type A at 220V.",
+    "launchStage": 2
+  },
+  {
+    "name": "Peru",
+    "slug": "peru",
+    "code": "PE",
+    "isoCode": "PE",
+    "flag": "\ud83c\uddf5\ud83c\uddea",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "plugTypes": [
+      "A",
+      "B",
+      "C"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin) and Type C (two round pins, ungrounded Europlug)",
+    "socketNotes": "Many outlets accept both US flat 2-prong (Type A) and European round 2-pin (Type C). WARNING: Voltage is 220V, unlike the US!",
+    "launchStage": 2
+  },
+  {
+    "name": "Philippines",
+    "slug": "philippines",
+    "code": "PH",
+    "isoCode": "PH",
+    "flag": "\ud83c\uddf5\ud83c\udded",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "A",
+      "B",
+      "C"
+    ],
+    "plugTypes": [
+      "A",
+      "B",
+      "C"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin) and Type C (two round pins, ungrounded Europlug)",
+    "socketNotes": "Plugs are mostly US style Type A and B, but the voltage is 220V! Do NOT plug 120V US hair dryers directly into Philippine sockets.",
+    "launchStage": 2
+  },
+  {
+    "name": "Poland",
+    "slug": "poland",
+    "code": "PL",
+    "isoCode": "PL",
+    "flag": "\ud83c\uddf5\ud83c\uddf1",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type E (two round pins with earth pin receptacle)",
+    "socketNotes": "Type E with protruding ground pin. Compatible with standard CEE 7/7 hybrid plugs and Type C Europlugs.",
+    "launchStage": 2
+  },
+  {
+    "name": "Portugal",
+    "slug": "portugal",
+    "code": "PT",
+    "isoCode": "PT",
+    "flag": "\ud83c\uddf5\ud83c\uddf9",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "European standard Type F Schuko and Type C Europlug are universal throughout Portugal and Madeira/Azores.",
+    "launchStage": 1
+  },
+  {
+    "name": "Puerto Rico",
+    "slug": "puerto-rico",
+    "code": "PR",
+    "isoCode": "PR",
+    "flag": "\ud83c\uddf5\ud83c\uddf7",
+    "voltage": "120V",
+    "voltageNum": 120,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin)",
+    "socketNotes": "US territory, follows standard US electrical codes (Type A/B, 120V, 60Hz).",
+    "launchStage": 2
+  },
+  {
+    "name": "Qatar",
+    "slug": "qatar",
+    "code": "QA",
+    "isoCode": "QA",
+    "flag": "\ud83c\uddf6\ud83c\udde6",
+    "voltage": "240V",
+    "voltageNum": 240,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "D",
+      "G"
+    ],
+    "plugTypes": [
+      "D",
+      "G"
+    ],
+    "pinDescription": "Type D (three large round pins in triangular configuration) and Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "Type G (British 3-pin) is standard in Doha and hotels.",
+    "launchStage": 2
+  },
+  {
+    "name": "Republic of the Congo",
+    "slug": "republic-of-the-congo",
+    "code": "CG",
+    "isoCode": "CG",
+    "flag": "\ud83c\udde8\ud83c\uddec",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type E (two round pins with earth pin receptacle)",
+    "socketNotes": "French standard Type E sockets and Type C Europlugs in Brazzaville.",
+    "launchStage": 2
+  },
+  {
+    "name": "Romania",
+    "slug": "romania",
+    "code": "RO",
+    "isoCode": "RO",
+    "flag": "\ud83c\uddf7\ud83c\uddf4",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Standard European Type F Schuko and Type C Europlug.",
+    "launchStage": 2
+  },
+  {
+    "name": "Russia",
+    "slug": "russia",
+    "code": "RU",
+    "isoCode": "RU",
+    "flag": "\ud83c\uddf7\ud83c\uddfa",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Standard European Type C and Type F Schuko sockets in Moscow and St. Petersburg.",
+    "launchStage": 2
+  },
+  {
+    "name": "Rwanda",
+    "slug": "rwanda",
+    "code": "RW",
+    "isoCode": "RW",
+    "flag": "\ud83c\uddf7\ud83c\uddfc",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "J"
+    ],
+    "plugTypes": [
+      "C",
+      "J"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type J (three round pins with offset center grounding pin)",
+    "socketNotes": "European Type C and Swiss style Type J sockets in Kigali.",
+    "launchStage": 2
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "slug": "saint-kitts-and-nevis",
+    "code": "KN",
+    "isoCode": "KN",
+    "flag": "\ud83c\uddf0\ud83c\uddf3",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "A",
+      "B",
+      "D",
+      "G"
+    ],
+    "plugTypes": [
+      "A",
+      "B",
+      "D",
+      "G"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin) and Type D (three large round pins in triangular configuration) and Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "Mix of British Type G and North American Type A/B, running at 230V.",
+    "launchStage": 2
+  },
+  {
+    "name": "Saint Lucia",
+    "slug": "saint-lucia",
+    "code": "LC",
+    "isoCode": "LC",
+    "flag": "\ud83c\uddf1\ud83c\udde8",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "G"
+    ],
+    "plugTypes": [
+      "G"
+    ],
+    "pinDescription": "Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "British standard Type G 3-pin rectangular sockets in all resorts.",
+    "launchStage": 2
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "slug": "saint-vincent",
+    "code": "VC",
+    "isoCode": "VC",
+    "flag": "\ud83c\uddfb\ud83c\udde8",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "A",
+      "C",
+      "E",
+      "G",
+      "I"
+    ],
+    "plugTypes": [
+      "A",
+      "C",
+      "E",
+      "G",
+      "I"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type C (two round pins, ungrounded Europlug) and Type E (two round pins with earth pin receptacle) and Type G (three flat rectangular blades in triangular formation) and Type I (two or three flat angled blades with grounding pin)",
+    "socketNotes": "British Type G is most prevalent in hotels.",
+    "launchStage": 2
+  },
+  {
+    "name": "Samoa",
+    "slug": "samoa",
+    "code": "WS",
+    "isoCode": "WS",
+    "flag": "\ud83c\uddfc\ud83c\uddf8",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "I"
+    ],
+    "plugTypes": [
+      "I"
+    ],
+    "pinDescription": "Type I (two or three flat angled blades with grounding pin)",
+    "socketNotes": "Australian standard Type I inverted V-blade sockets.",
+    "launchStage": 2
+  },
+  {
+    "name": "San Marino",
+    "slug": "san-marino",
+    "code": "SM",
+    "isoCode": "SM",
+    "flag": "\ud83c\uddf8\ud83c\uddf2",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F",
+      "L"
+    ],
+    "plugTypes": [
+      "C",
+      "F",
+      "L"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko)) and Type L (three round pins in an in-line configuration)",
+    "socketNotes": "Italian style Type L inline and European Type C/F.",
+    "launchStage": 2
+  },
+  {
+    "name": "Saudi Arabia",
+    "slug": "saudi-arabia",
+    "code": "SA",
+    "isoCode": "SA",
+    "flag": "\ud83c\uddf8\ud83c\udde6",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "G"
+    ],
+    "plugTypes": [
+      "G"
+    ],
+    "pinDescription": "Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "Type G is the sole national standard. Modern hotel outlets often feature USB charging ports.",
+    "launchStage": 2
+  },
+  {
+    "name": "Senegal",
+    "slug": "senegal",
+    "code": "SN",
+    "isoCode": "SN",
+    "flag": "\ud83c\uddf8\ud83c\uddf3",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "D",
+      "E",
+      "K"
+    ],
+    "plugTypes": [
+      "C",
+      "D",
+      "E",
+      "K"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type D (three large round pins in triangular configuration) and Type E (two round pins with earth pin receptacle) and Type K (two round pins with U-shaped grounding pin)",
+    "socketNotes": "French Type E and European Type C are common in Dakar.",
+    "launchStage": 2
+  },
+  {
+    "name": "Serbia",
+    "slug": "serbia",
+    "code": "RS",
+    "isoCode": "RS",
+    "flag": "\ud83c\uddf7\ud83c\uddf8",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Standard European Type C and Type F Schuko sockets in Belgrade.",
+    "launchStage": 2
+  },
+  {
+    "name": "Seychelles",
+    "slug": "seychelles",
+    "code": "SC",
+    "isoCode": "SC",
+    "flag": "\ud83c\uddf8\ud83c\udde8",
+    "voltage": "240V",
+    "voltageNum": 240,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "G"
+    ],
+    "plugTypes": [
+      "G"
+    ],
+    "pinDescription": "Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "British standard Type G 3-pin outlets.",
+    "launchStage": 2
+  },
+  {
+    "name": "Sierra Leone",
+    "slug": "sierra-leone",
+    "code": "SL",
+    "isoCode": "SL",
+    "flag": "\ud83c\uddf8\ud83c\uddf1",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "D",
+      "G"
+    ],
+    "plugTypes": [
+      "D",
+      "G"
+    ],
+    "pinDescription": "Type D (three large round pins in triangular configuration) and Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "British Type G 3-pin rectangular sockets in Freetown.",
+    "launchStage": 2
+  },
+  {
+    "name": "Singapore",
+    "slug": "singapore",
+    "code": "SG",
+    "isoCode": "SG",
+    "flag": "\ud83c\uddf8\ud83c\uddec",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "G"
+    ],
+    "plugTypes": [
+      "G"
+    ],
+    "pinDescription": "Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "British standard Type G 3-pin sockets everywhere. Many modern hotels also offer integrated international or USB wall sockets.",
+    "launchStage": 1
+  },
+  {
+    "name": "Slovakia",
+    "slug": "slovakia",
+    "code": "SK",
+    "isoCode": "SK",
+    "flag": "\ud83c\uddf8\ud83c\uddf0",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type E (two round pins with earth pin receptacle)",
+    "socketNotes": "Type E with male grounding pin, standard across Slovakia.",
+    "launchStage": 2
+  },
+  {
+    "name": "Slovenia",
+    "slug": "slovenia",
+    "code": "SI",
+    "isoCode": "SI",
+    "flag": "\ud83c\uddf8\ud83c\uddee",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Standard European Type F Schuko and Type C Europlug.",
+    "launchStage": 2
+  },
+  {
+    "name": "Solomon Islands",
+    "slug": "solomon-islands",
+    "code": "SB",
+    "isoCode": "SB",
+    "flag": "\ud83c\uddf8\ud83c\udde7",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "G",
+      "I"
+    ],
+    "plugTypes": [
+      "G",
+      "I"
+    ],
+    "pinDescription": "Type G (three flat rectangular blades in triangular formation) and Type I (two or three flat angled blades with grounding pin)",
+    "socketNotes": "Australian Type I angled pin sockets and British Type G in Honiara at 230V / 50Hz.",
+    "launchStage": 2
+  },
+  {
+    "name": "Somalia",
+    "slug": "somalia",
+    "code": "SO",
+    "isoCode": "SO",
+    "flag": "\ud83c\uddf8\ud83c\uddf4",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "G"
+    ],
+    "plugTypes": [
+      "C",
+      "G"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "European 2-pin Type C and British 3-pin Type G sockets in Mogadishu at 220V / 50Hz.",
+    "launchStage": 2
+  },
+  {
+    "name": "South Africa",
+    "slug": "south-africa",
+    "code": "ZA",
+    "isoCode": "ZA",
+    "flag": "\ud83c\uddff\ud83c\udde6",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "D",
+      "M",
+      "N"
+    ],
+    "plugTypes": [
+      "C",
+      "D",
+      "M",
+      "N"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type D (three large round pins in triangular configuration) and Type M (three large round pins in triangular configuration) and Type N (three round pins in flattened triangular configuration)",
+    "socketNotes": "Large 3-pin round Type M is the legacy national standard. Newer developments are introducing Type N (IEC 60906-1).",
+    "launchStage": 2
+  },
+  {
+    "name": "South Korea",
+    "slug": "south-korea",
+    "code": "KR",
+    "isoCode": "KR",
+    "flag": "\ud83c\uddf0\ud83c\uddf7",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "South Korea uses German Schuko Type F and Type C round pins, but operates at 60Hz.",
+    "launchStage": 1
+  },
+  {
+    "name": "South Sudan",
+    "slug": "south-sudan",
+    "code": "SS",
+    "isoCode": "SS",
+    "flag": "\ud83c\uddf8\ud83c\uddf8",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "D"
+    ],
+    "plugTypes": [
+      "C",
+      "D"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type D (three large round pins in triangular configuration)",
+    "socketNotes": "European 2-pin Type C and 3-pin round Type D sockets are standard in Juba at 230V / 50Hz.",
+    "launchStage": 2
+  },
+  {
+    "name": "Spain",
+    "slug": "spain",
+    "code": "ES",
+    "isoCode": "ES",
+    "flag": "\ud83c\uddea\ud83c\uddf8",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Virtually all hotels and apartments use Type F Schuko sockets or Type C. Europlug Type C fits seamlessly.",
+    "launchStage": 1
+  },
+  {
+    "name": "Sri Lanka",
+    "slug": "sri-lanka",
+    "code": "LK",
+    "isoCode": "LK",
+    "flag": "\ud83c\uddf1\ud83c\uddf0",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "D",
+      "G",
+      "M"
+    ],
+    "plugTypes": [
+      "D",
+      "G",
+      "M"
+    ],
+    "pinDescription": "Type D (three large round pins in triangular configuration) and Type G (three flat rectangular blades in triangular formation) and Type M (three large round pins in triangular configuration)",
+    "socketNotes": "Transitioned to British Type G as the official standard, though Type D and M remain in older buildings.",
+    "launchStage": 2
+  },
+  {
+    "name": "Sudan",
+    "slug": "sudan",
+    "code": "SD",
+    "isoCode": "SD",
+    "flag": "\ud83c\uddf8\ud83c\udde9",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "D"
+    ],
+    "plugTypes": [
+      "C",
+      "D"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type D (three large round pins in triangular configuration)",
+    "socketNotes": "European 2-pin Type C Europlug and British old 3-round-pin Type D sockets operating at 230V / 50Hz.",
+    "launchStage": 2
+  },
+  {
+    "name": "Suriname",
+    "slug": "suriname",
+    "code": "SR",
+    "isoCode": "SR",
+    "flag": "\ud83c\uddf8\ud83c\uddf7",
+    "voltage": "127V",
+    "voltageNum": 127,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "A",
+      "B",
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "A",
+      "B",
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin) and Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "North American Type A and B sockets as well as European Type C/F.",
+    "launchStage": 2
+  },
+  {
+    "name": "Sweden",
+    "slug": "sweden",
+    "code": "SE",
+    "isoCode": "SE",
+    "flag": "\ud83c\uddf8\ud83c\uddea",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Nordic standard Type F Schuko and Type C Europlug.",
+    "launchStage": 2
+  },
+  {
+    "name": "Switzerland",
+    "slug": "switzerland",
+    "code": "CH",
+    "isoCode": "CH",
+    "flag": "\ud83c\udde8\ud83c\udded",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "J"
+    ],
+    "plugTypes": [
+      "C",
+      "J"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type J (three round pins with offset center grounding pin)",
+    "socketNotes": "Type J sockets feature a recessed hexagonal faceplate with an offset center ground pin. Europlug Type C fits; bulky Schuko plugs do NOT.",
+    "launchStage": 1
+  },
+  {
+    "name": "Syria",
+    "slug": "syria",
+    "code": "SY",
+    "isoCode": "SY",
+    "flag": "\ud83c\uddf8\ud83c\uddfe",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "E",
+      "L"
+    ],
+    "plugTypes": [
+      "C",
+      "E",
+      "L"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type E (two round pins with earth pin receptacle) and Type L (three round pins in an in-line configuration)",
+    "socketNotes": "Syrian electrical outlets primarily feature European 2-pin Type C, French Type E, and Italian 3-pin Type L at 220V / 50Hz.",
+    "launchStage": 2
+  },
+  {
+    "name": "Taiwan",
+    "slug": "taiwan",
+    "code": "TW",
+    "isoCode": "TW",
+    "flag": "\ud83c\uddf9\ud83c\uddfc",
+    "voltage": "110V",
+    "voltageNum": 110,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin)",
+    "socketNotes": "Matches North American Type A and B sockets and 110V/60Hz electricity.",
+    "launchStage": 2
+  },
+  {
+    "name": "Tajikistan",
+    "slug": "tajikistan",
+    "code": "TJ",
+    "isoCode": "TJ",
+    "flag": "\ud83c\uddf9\ud83c\uddef",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Standard European Type C and Type F Schuko sockets in Dushanbe.",
+    "launchStage": 2
+  },
+  {
+    "name": "Tanzania",
+    "slug": "tanzania",
+    "code": "TZ",
+    "isoCode": "TZ",
+    "flag": "\ud83c\uddf9\ud83c\uddff",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "D",
+      "G"
+    ],
+    "plugTypes": [
+      "D",
+      "G"
+    ],
+    "pinDescription": "Type D (three large round pins in triangular configuration) and Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "British Type G is prevalent in safari lodges, Dar es Salaam, and Zanzibar.",
+    "launchStage": 2
+  },
+  {
+    "name": "Thailand",
+    "slug": "thailand",
+    "code": "TH",
+    "isoCode": "TH",
+    "flag": "\ud83c\uddf9\ud83c\udded",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "A",
+      "B",
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "A",
+      "B",
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin) and Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Thailand uses hybrid universal wall sockets that accept US flat prongs (Type A/B) AND European round pins (Type C/F). Beware: voltage is 220V!",
+    "launchStage": 1
+  },
+  {
+    "name": "Timor-Leste",
+    "slug": "timor-leste",
+    "code": "TL",
+    "isoCode": "TL",
+    "flag": "\ud83c\uddf9\ud83c\uddf1",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "E",
+      "F",
+      "I"
+    ],
+    "plugTypes": [
+      "C",
+      "E",
+      "F",
+      "I"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type E (two round pins with earth pin receptacle) and Type F (two round pins with dual side grounding clips (Schuko)) and Type I (two or three flat angled blades with grounding pin)",
+    "socketNotes": "European Type C and Australian Type I sockets in Dili at 220V / 50Hz.",
+    "launchStage": 2
+  },
+  {
+    "name": "Togo",
+    "slug": "togo",
+    "code": "TG",
+    "isoCode": "TG",
+    "flag": "\ud83c\uddf9\ud83c\uddec",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C"
+    ],
+    "plugTypes": [
+      "C"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug)",
+    "socketNotes": "European standard 2-pin round Type C sockets in Lom\u00e9 at 220V / 50Hz.",
+    "launchStage": 2
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "slug": "trinidad-and-tobago",
+    "code": "TT",
+    "isoCode": "TT",
+    "flag": "\ud83c\uddf9\ud83c\uddf9",
+    "voltage": "115V",
+    "voltageNum": 115,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin)",
+    "socketNotes": "US style Type A and B sockets operating at 115V / 60Hz.",
+    "launchStage": 2
+  },
+  {
+    "name": "Tunisia",
+    "slug": "tunisia",
+    "code": "TN",
+    "isoCode": "TN",
+    "flag": "\ud83c\uddf9\ud83c\uddf3",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type E (two round pins with earth pin receptacle)",
+    "socketNotes": "French standard Type E sockets and Type C Europlug in Tunis and resort towns.",
+    "launchStage": 2
+  },
+  {
+    "name": "Turkey",
+    "slug": "turkey",
+    "code": "TR",
+    "isoCode": "TR",
+    "flag": "\ud83c\uddf9\ud83c\uddf7",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Standard European Type F Schuko and Type C Europlug.",
+    "launchStage": 1
+  },
+  {
+    "name": "Turkmenistan",
+    "slug": "turkmenistan",
+    "code": "TM",
+    "isoCode": "TM",
+    "flag": "\ud83c\uddf9\ud83c\uddf2",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "B",
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "B",
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type B (two flat parallel prongs with round grounding pin) and Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "European standard Type C and Type F Schuko sockets in Ashgabat.",
+    "launchStage": 2
+  },
+  {
+    "name": "Uganda",
+    "slug": "uganda",
+    "code": "UG",
+    "isoCode": "UG",
+    "flag": "\ud83c\uddfa\ud83c\uddec",
+    "voltage": "240V",
+    "voltageNum": 240,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "G"
+    ],
+    "plugTypes": [
+      "G"
+    ],
+    "pinDescription": "Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "British standard Type G 3-pin rectangular plugs across Kampala and lodges.",
+    "launchStage": 2
+  },
+  {
+    "name": "Ukraine",
+    "slug": "ukraine",
+    "code": "UA",
+    "isoCode": "UA",
+    "flag": "\ud83c\uddfa\ud83c\udde6",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Standard European Type C and Type F Schuko sockets in Kyiv and Lviv.",
+    "launchStage": 2
+  },
+  {
+    "name": "United Arab Emirates",
+    "slug": "united-arab-emirates",
+    "code": "AE",
+    "isoCode": "AE",
+    "flag": "\ud83c\udde6\ud83c\uddea",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "G"
+    ],
+    "plugTypes": [
+      "G"
+    ],
+    "pinDescription": "Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "Standard British 3-pin Type G outlets in Dubai and Abu Dhabi hotels and residences.",
+    "launchStage": 1
+  },
+  {
+    "name": "United Kingdom",
+    "slug": "united-kingdom",
+    "code": "GB",
+    "isoCode": "GB",
+    "flag": "\ud83c\uddec\ud83c\udde7",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "G"
+    ],
+    "plugTypes": [
+      "G"
+    ],
+    "pinDescription": "Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "Standard British 3-rectangular-pin BS 1363 sockets with built-in safety shutters and individual wall switches.",
+    "launchStage": 1
+  },
+  {
+    "name": "United States",
+    "slug": "united-states",
+    "code": "US",
+    "isoCode": "US",
+    "flag": "\ud83c\uddfa\ud83c\uddf8",
+    "voltage": "120V",
+    "voltageNum": 120,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin)",
+    "socketNotes": "Type B grounded sockets are standard in modern construction; Type A ungrounded plugs fit easily into Type B sockets.",
+    "launchStage": 1
+  },
+  {
+    "name": "Uruguay",
+    "slug": "uruguay",
+    "code": "UY",
+    "isoCode": "UY",
+    "flag": "\ud83c\uddfa\ud83c\uddfe",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F",
+      "I",
+      "L"
+    ],
+    "plugTypes": [
+      "C",
+      "F",
+      "I",
+      "L"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko)) and Type I (two or three flat angled blades with grounding pin) and Type L (three round pins in an in-line configuration)",
+    "socketNotes": "Commonly features Italian Type L and European Type C/F.",
+    "launchStage": 2
+  },
+  {
+    "name": "Uzbekistan",
+    "slug": "uzbekistan",
+    "code": "UZ",
+    "isoCode": "UZ",
+    "flag": "\ud83c\uddfa\ud83c\uddff",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Standard European Type C and Type F Schuko sockets across Tashkent and Samarkand.",
+    "launchStage": 2
+  },
+  {
+    "name": "Vanuatu",
+    "slug": "vanuatu",
+    "code": "VU",
+    "isoCode": "VU",
+    "flag": "\ud83c\uddfb\ud83c\uddfa",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "I"
+    ],
+    "plugTypes": [
+      "I"
+    ],
+    "pinDescription": "Type I (two or three flat angled blades with grounding pin)",
+    "socketNotes": "Australian standard Type I inverted V-blade sockets.",
+    "launchStage": 2
+  },
+  {
+    "name": "Vatican City",
+    "slug": "vatican-city",
+    "code": "VA",
+    "isoCode": "VA",
+    "flag": "\ud83c\uddfb\ud83c\udde6",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "F",
+      "L"
+    ],
+    "plugTypes": [
+      "C",
+      "F",
+      "L"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko)) and Type L (three round pins in an in-line configuration)",
+    "socketNotes": "Italian standard Type L inline and European Type C/F.",
+    "launchStage": 2
+  },
+  {
+    "name": "Venezuela",
+    "slug": "venezuela",
+    "code": "VE",
+    "isoCode": "VE",
+    "flag": "\ud83c\uddfb\ud83c\uddea",
+    "voltage": "120V",
+    "voltageNum": 120,
+    "frequency": "60Hz",
+    "frequencyNum": 60,
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "plugTypes": [
+      "A",
+      "B"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type B (two flat parallel prongs with round grounding pin)",
+    "socketNotes": "North American Type A and B sockets at 120V / 60Hz.",
+    "launchStage": 2
+  },
+  {
+    "name": "Vietnam",
+    "slug": "vietnam",
+    "code": "VN",
+    "isoCode": "VN",
+    "flag": "\ud83c\uddfb\ud83c\uddf3",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "A",
+      "C",
+      "F"
+    ],
+    "plugTypes": [
+      "A",
+      "C",
+      "F"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type C (two round pins, ungrounded Europlug) and Type F (two round pins with dual side grounding clips (Schuko))",
+    "socketNotes": "Universal sockets accepting both US flat prongs (Type A) and European round pins (Type C/F) are common in hotels.",
+    "launchStage": 1
+  },
+  {
+    "name": "Western Sahara",
+    "slug": "western-sahara",
+    "code": "EH",
+    "isoCode": "EH",
+    "flag": "\ud83c\uddea\ud83c\udded",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "plugTypes": [
+      "C",
+      "E"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type E (two round pins with earth pin receptacle)",
+    "socketNotes": "European 2-pin Type C and French Type E outlets at 220V / 50Hz.",
+    "launchStage": 2
+  },
+  {
+    "name": "Yemen",
+    "slug": "yemen",
+    "code": "YE",
+    "isoCode": "YE",
+    "flag": "\ud83c\uddfe\ud83c\uddea",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "A",
+      "D",
+      "G"
+    ],
+    "plugTypes": [
+      "A",
+      "D",
+      "G"
+    ],
+    "pinDescription": "Type A (two flat parallel prongs, ungrounded) and Type D (three large round pins in triangular configuration) and Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "British standard 3-pin Type G is most common in Sanaa and Aden, alongside Type A and Type D sockets at 230V / 50Hz.",
+    "launchStage": 2
+  },
+  {
+    "name": "Zambia",
+    "slug": "zambia",
+    "code": "ZM",
+    "isoCode": "ZM",
+    "flag": "\ud83c\uddff\ud83c\uddf2",
+    "voltage": "230V",
+    "voltageNum": 230,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "C",
+      "D",
+      "G"
+    ],
+    "plugTypes": [
+      "C",
+      "D",
+      "G"
+    ],
+    "pinDescription": "Type C (two round pins, ungrounded Europlug) and Type D (three large round pins in triangular configuration) and Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "British Type G and European Type C in Lusaka and safari lodges.",
+    "launchStage": 2
+  },
+  {
+    "name": "Zimbabwe",
+    "slug": "zimbabwe",
+    "code": "ZW",
+    "isoCode": "ZW",
+    "flag": "\ud83c\uddff\ud83c\uddfc",
+    "voltage": "220V",
+    "voltageNum": 220,
+    "frequency": "50Hz",
+    "frequencyNum": 50,
+    "plugs": [
+      "D",
+      "G"
+    ],
+    "plugTypes": [
+      "D",
+      "G"
+    ],
+    "pinDescription": "Type D (three large round pins in triangular configuration) and Type G (three flat rectangular blades in triangular formation)",
+    "socketNotes": "British standard Type G 3-pin rectangular sockets around Victoria Falls and Harare.",
+    "launchStage": 2
+  }
+]
